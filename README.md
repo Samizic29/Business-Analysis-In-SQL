@@ -4,7 +4,7 @@
 
 ## Introduction
 
-> This is a SQL project from Danny’s 8weeksqlchallenge. Danny’s Diner is a restaurant business that sell Japanese food and who want to use his business data to help make data-driven decisions for the business.
+> This is a SQL project from Danny’s <a href="https://8weeksqlchallenge.com/case-study-1/">8weeksqlchallenge</a> Danny’s Diner is a restaurant business that sell Japanese food and who want to use his business data to help make data-driven decisions for the business.
 
 ## Problem Statement
 
@@ -38,4 +38,6 @@ SQL Functions: Basic Aggregations, Windows Function, Common Table Expression, Jo
 - Customer C was never a member but purchased items of $35.
 
 ## Tools
-PostgreSQL v13 
+PostgreSQL v13
+
+You can check out the full documentation <a href = "">here</a>
