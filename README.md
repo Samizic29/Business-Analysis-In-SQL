@@ -1,4 +1,4 @@
-# Business-Analysis-In-SQL : Danny's Diner
+# Business-Analysis-In-SQL : Danny's Diner Case Study
 
 ## Oyedele Samuel
 
@@ -40,4 +40,4 @@ SQL Functions: Basic Aggregations, Windows Function, Common Table Expression, Jo
 ## Tools
 PostgreSQL v13
 
-You can check out the full documentation <a href = "">here</a>
+You can check out the full documentation <a href = "https://medium.com/@samueloyedele/business-analysis-in-sql-dannys-diner-case-study-c07c4cc03945">here</a>
