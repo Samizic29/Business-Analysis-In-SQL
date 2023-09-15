@@ -4,11 +4,14 @@
 
 ## Introduction
 
-> This is a SQL project from Danny’s <a href="https://8weeksqlchallenge.com/case-study-1/">8weeksqlchallenge</a> Danny’s Diner is a restaurant business that sell Japanese food and who want to use his business data to help make data-driven decisions for the business.
+> This is a SQL project from Danny’s <a href="https://8weeksqlchallenge.com/case-study-1/">8weeksqlchallenge</a>
+
+> Danny’s Diner is a restaurant business that sell Japanese food and who want to use his business data to help make data-driven decisions for the business.
 
 ## Problem Statement
 
 > Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favorite. Having this deeper connection with his customers will help him deliver a better and more personalized experience for his loyal customers.
+
 > He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
 ## Datasets
